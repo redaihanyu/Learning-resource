@@ -5,5 +5,5 @@
 	2、例子源码是一些实例的源码
 	
 	feature-A
+	*fix-B
 	master
-	* fix-B
