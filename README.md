@@ -7,3 +7,5 @@
 	*******  ** new feature-A and fix-B
 	*fix-B
 	master
+	-feature-C
+
